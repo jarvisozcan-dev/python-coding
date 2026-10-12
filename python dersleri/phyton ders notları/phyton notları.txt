@@ -1,0 +1,17 @@
+📥 Veri Giriş ve Çıkış Komutları
+• print() (Yazma): Bilgisayarın ekrana bir bilgi, yazı veya işlem sonucu basmasını (yazmasını) sağlar.
+• input() (Dışarıdan veri alma): Programın durup kullanıcının klavyeden bir şey yazmasını beklemesini sağlar; girilen veriyi içeri alır.
+📦 Temel Kavramlar ve Semboller
+• Değişken (isim, sayi vb.): İçine veri (yazı, sayı) koyabildiğimiz, program içinde sonradan çağırıp kullanabildiğimiz dijital kutulardır.
+• = (Aktarma / Atama): Sağındaki değeri, solundaki değişken kutusunun içine koyar (Örn: skor = 5 dediğimizde 5 sayısını skor kutusuna aktarır).
+• " veya ' (Metin Sınırlandırıcı): Bilgisayara, içeride yazan şeyin bir kod değil, düz bir metin (yazı) olduğunu anlatır.
+• + (Metin Birleştirme / Toplama): Eğer sayılar arasında kullanılırsa matematiksel toplama yapar; eğer metinler arasında kullanılırsa metinleri arka arkaya ekleyerek yapıştırır.
+💬 Yazım Kuralları ve Detaylar
+• "merhaba " (Boşluk Bırakma): Metin birleştirirken kelimelerin birbirine yapışmaması (merhabaAhmet yerine merhaba Ahmet olması) için tırnak kapatılmadan önce bırakılan görsel boşluktur.
+• () (Parantezler): Bir komutun (fonksiyonun) çalışması için ihtiyaç duyduğu malzemeleri içine koyduğumuz işlem alanıdır.
+🛠️ İleri Seviye Temel Yapılar (Kodun Akışını Değiştirenler)
+• if (Eğer): Belirttiğimiz bir şartın doğru olup olmadığını kontrol eder (Örn: "Eğer puan 10 ise oyunu bitir").
+• else (Değilse): if şartı gerçekleşmediğinde, geriye kalan tüm durumlarda çalışacak olan B planıdır.
+• while (Süreç Döngüsü): Belirli bir şart doğru olduğu sürece, içindeki kodların durmadan dönmesini (tekrar etmesini) sağlar.
+• import (Dahil Etme): Python'ın içinde hazır bulunan ama hemen aktif olmayan modülleri/ekstra özellikleri (örneğin rastgele sayı seçme robotu olan random modülünü) projeye çağırır.
+•elif= eğer ise değilise

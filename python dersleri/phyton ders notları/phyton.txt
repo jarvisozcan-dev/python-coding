@@ -1,0 +1,3 @@
+print("merhaba dünya")
+
+bu komut sadece yazı yazmaya yarar 

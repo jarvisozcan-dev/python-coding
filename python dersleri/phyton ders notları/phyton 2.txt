@@ -1,0 +1,10 @@
+print("isminizi giriniz:")
+isim=input ()
+print("merhaba " + isim + "!")
+
+print()=yazma
+input()=dışardan veri girmesini sağlar 
+isim=deyişken
+(=)=aktarma
+(")=metin girişi
+(print("merhaba " + isim + "!"))=komuzumuzdaki bu satırda merhabadan sonraki tırnak işaretinde boşluk bırakmamızın sebebi komut veriyi aldıktan sonra metni yazarken yazdığı metinde boşluk bırakması içindir
